@@ -1,1 +1,1 @@
-Data analysis of movie database, looking for correlations/relationships between the data valuesData analysis of the 'Movie Industry' database, looking for correlations between the different attributes that movies have e.g. budget, company, director, rating etc.
+Data Science project using Python Pandas to perform analysis of a movie database, looking for correlations/relationships between the different attributes that movies have e.g. budget, company, director, rating etc.
